@@ -1,0 +1,13 @@
+C:\Users\Nickky\source\repos\GameServer\MainGameServer\MainGameServer\bin\Debug\netcoreapp3.1\MainGameServer.exe
+C:\Users\Nickky\source\repos\GameServer\MainGameServer\MainGameServer\bin\Debug\netcoreapp3.1\MainGameServer.deps.json
+C:\Users\Nickky\source\repos\GameServer\MainGameServer\MainGameServer\bin\Debug\netcoreapp3.1\MainGameServer.runtimeconfig.json
+C:\Users\Nickky\source\repos\GameServer\MainGameServer\MainGameServer\bin\Debug\netcoreapp3.1\MainGameServer.runtimeconfig.dev.json
+C:\Users\Nickky\source\repos\GameServer\MainGameServer\MainGameServer\bin\Debug\netcoreapp3.1\MainGameServer.dll
+C:\Users\Nickky\source\repos\GameServer\MainGameServer\MainGameServer\bin\Debug\netcoreapp3.1\MainGameServer.pdb
+C:\Users\Nickky\source\repos\GameServer\MainGameServer\MainGameServer\obj\Debug\netcoreapp3.1\MainGameServer.csprojAssemblyReference.cache
+C:\Users\Nickky\source\repos\GameServer\MainGameServer\MainGameServer\obj\Debug\netcoreapp3.1\MainGameServer.AssemblyInfoInputs.cache
+C:\Users\Nickky\source\repos\GameServer\MainGameServer\MainGameServer\obj\Debug\netcoreapp3.1\MainGameServer.AssemblyInfo.cs
+C:\Users\Nickky\source\repos\GameServer\MainGameServer\MainGameServer\obj\Debug\netcoreapp3.1\MainGameServer.dll
+C:\Users\Nickky\source\repos\GameServer\MainGameServer\MainGameServer\obj\Debug\netcoreapp3.1\MainGameServer.pdb
+C:\Users\Nickky\source\repos\GameServer\MainGameServer\MainGameServer\obj\Debug\netcoreapp3.1\MainGameServer.genruntimeconfig.cache
+C:\Users\Nickky\source\repos\GameServer\MainGameServer\MainGameServer\obj\Debug\netcoreapp3.1\MainGameServer.csproj.CoreCompileInputs.cache
